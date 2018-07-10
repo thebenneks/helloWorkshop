@@ -1,6 +1,8 @@
 Node.js sample app on OpenShift!
 -----------------
 
+Here we go
+
 Repo structure:
 
 	nodejs-ex
